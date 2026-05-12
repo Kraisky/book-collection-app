@@ -14,7 +14,7 @@
     "axios": "^1.6.5",
     "dotenv": "^16.3.1",
     "cors": "^2.8.5",
-    "smbhclient": "^0.10.1"
+    "smb2": "^0.2.11"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
